@@ -1,4 +1,6 @@
-Project Euler Exercises
+## Project Euler Exercises
+
+![Project Euler](https://projecteuler.net/profile/seanyeh.png)
 
 I am using these exercises primarily to learn Lua. I may also experiment with
 some other languages.
